@@ -1,2 +1,2 @@
-# online
-this is a amazing game
+# p5.play-boilerplate
+Boiler plate for p5.play
